@@ -1,0 +1,16 @@
+PODS:
+  - projectpod (0.1.0)
+
+DEPENDENCIES:
+  - projectpod (from `../`)
+
+EXTERNAL SOURCES:
+  projectpod:
+    :path: ../
+
+SPEC CHECKSUMS:
+  projectpod: 2c7d4244a89b204461000d208c83db43043975ec
+
+PODFILE CHECKSUM: 86fad9cded238c85361ca8a7408f51b9ba7598a8
+
+COCOAPODS: 1.3.1

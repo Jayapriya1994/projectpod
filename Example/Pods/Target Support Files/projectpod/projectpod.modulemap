@@ -1,0 +1,6 @@
+framework module projectpod {
+  umbrella header "projectpod-umbrella.h"
+
+  export *
+  module * { export * }
+}
